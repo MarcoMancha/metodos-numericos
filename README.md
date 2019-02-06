@@ -1,2 +1,2 @@
-# metodos_numericos
+# Métodos Numericos
 Repositorio para programas relacionados con métodos numéricos
