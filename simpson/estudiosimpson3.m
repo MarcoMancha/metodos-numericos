@@ -1,0 +1,1 @@
+/home/marcomancha/Documents/github/metodos_numericos/estudiosimpson3.m
